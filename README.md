@@ -1,5 +1,5 @@
 ## Encantado de conocerte👋
-# 💫 About Me:
+# 💫 Sobre mí:
 Actualmente estoy cursando el grado superior de DAM.<br>Estoy aprendiendo React, Spring Boot y Typescript.<br>
 
 
